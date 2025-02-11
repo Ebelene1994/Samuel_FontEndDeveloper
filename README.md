@@ -1,10 +1,10 @@
 
 # **Samuel Otoo - Web Developer**  
-🌍 **Location:** [Your City, Country]  
-📧 **Email:** [your.email@example.com](mailto:your.samuelotoo2494@gmail.com)  
-🔗 **Portfolio:** [yourwebsite.com]([https://yourwebsite.com](https://github.com/Ebelene1994))  
-🔗 **GitHub:** [github.com/yourusername](https://github.com/Ebelene1994)  
-🔗 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/samuel-otoo-2b12261a6)  
+🌍 **Location:** [Accra, Ghana]  
+📧 **Email:** [samuelotoo2494@gmail.com](mailto:your.samuelotoo2494@gmail.com)  
+🔗 **Portfolio:** [[github.com/Ebelene1994](https://github.com/Ebelene1994))  
+🔗 **GitHub:** [github.com/Ebelene1994(https://github.com/Ebelene1994)  
+🔗 **LinkedIn:** [linkedin.com/in/samuel-otoo-2b12261a6](https://linkedin.com/in/samuel-otoo-2b12261a6)  
 
 ---
 
