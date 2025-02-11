@@ -2,8 +2,7 @@
 # **Samuel Otoo - Web Developer**  
 🌍 **Location:** [Accra, Ghana]  
 📧 **Email:** [samuelotoo2494@gmail.com](mailto:your.samuelotoo2494@gmail.com)  
-🔗 **Portfolio:** [[github.com/Ebelene1994](https://github.com/Ebelene1994))  
-🔗 **GitHub:** [github.com/Ebelene1994(https://github.com/Ebelene1994)  
+🔗 **Portfolio:** [[github.com/Ebelene1994](https://github.com/Ebelene1994))    
 🔗 **LinkedIn:** [linkedin.com/in/samuel-otoo-2b12261a6](https://linkedin.com/in/samuel-otoo-2b12261a6)  
 
 ---
@@ -115,11 +114,11 @@ A **personal blogging platform** with SEO-friendly WordPress setup.
 
 💼 **Looking for a Web Developer? Let's Connect!**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-otoo-2b12261a6)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ebelene1994)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&style=for-the-badge&logo=firefox&logoColor=white)]([https://yourportfolio.com](https://github.com/Ebelene199))  
 
----
+---https://linkedin.com/in/
 
 🔥 **Let’s build something amazing together!** 🚀  
 
